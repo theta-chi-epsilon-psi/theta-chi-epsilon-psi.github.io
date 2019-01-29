@@ -1,1 +1,3 @@
+---
 title: Nicolas Laing
+---
