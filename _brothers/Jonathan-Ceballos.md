@@ -1,7 +1,7 @@
 ---
 title: Jonathan Ceballos
 rosternum:
-position: Head of Recruitment
+position: Recruitment Chairman
 name: DJ Ceballos
 year: Sophomore
 major: Chemical Engineering

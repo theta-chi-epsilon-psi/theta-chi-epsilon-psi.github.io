@@ -2,7 +2,7 @@
 title: Vasilios Halkias
 image: 
 name: Vasilios Halkias
-year: Sophomore
+year: Junior
 major: Chemical Engineering
 pledgesemester: Fall 2016
 facebook: vasilioshalkias

@@ -1,7 +1,7 @@
 ---
 title: Nick Manginelli
 position: Treasurer
-name: 
-year: 
+name: Nick Manginelli
+year: Junior
 major: Computer Engineering Technology
 ---
