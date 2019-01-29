@@ -1,8 +1,8 @@
 ---
-title: CJ Maxwell
+title: Christopher Joseph Maxwell
 rosternum: 705
 position: Public Relations Chairman
-name: Christopher Joseph Maxwell
+name: CJ Maxwell
 year: Senior
 major: Computer Science
 ---
