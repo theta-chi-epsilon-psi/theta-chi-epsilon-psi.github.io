@@ -3,5 +3,5 @@ title: Devin Mattheson
 position: secretary
 name: Devin Mattheson
 year: Senior
-major:
+major: Mechanical Engineering
 ---
